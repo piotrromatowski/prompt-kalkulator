@@ -1,0 +1,11 @@
+body {
+    background-color: wheat;
+}
+
+div {
+    width: 150px;
+    height: 70px;
+    background-color: black;
+    border: solid  blue 5px;
+    color: white;
+}
