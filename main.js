@@ -2,7 +2,7 @@ let guzik = document.querySelector("button");
 let par1 = document.getElementById("p1");
 let par2 = document.getElementById("p2");
 let guzikplus = document.getElementById("dod");
-let guzikminus = document.getElementById("min");
+let guzikminus = document.getElementById("ode");
 let guzikmnoz = document.getElementById("mno");
 let ramka = document.getElementById("ekran");
 let dana1;
